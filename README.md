@@ -14,3 +14,8 @@ Growth mindset means that I **can** acheive anything that I set my mind to. Even
 1. Never give up
 2. Try and try again
 3. Ask for help when needed
+
+
+|Contact Info|  |
+--- | --- |
+|Pierce55@icloud.com|773-675-0045|
