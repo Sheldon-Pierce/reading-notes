@@ -34,4 +34,7 @@ file - obtain information about what type of file a file or directory is.
 
 ls -a - List the contents of a directory, including hidden files.
 
+## Command Line Cheatsheet
+[Command Line Cheatsheet](https://github.com/Sheldon-Pierce/reading-notes/blob/main/command-line-cheat-sheet-large.png)
+
 ## Things I want to know more about
