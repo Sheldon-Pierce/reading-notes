@@ -7,9 +7,7 @@ Hello, I am Sheldon Pierce (He/Him). I currently live in Seattle, Washington. I 
 
 ![Me](Face.jpg)
 
-Link to [my github portfolio](https://pages.github/Sheldon-Pierce).
-
-
+Link to [my github portfolio](https://github.com/Sheldon-Pierce).
 
 # Code 102 Reading Notes
 | Classes | |
@@ -18,7 +16,6 @@ Link to [my github portfolio](https://pages.github/Sheldon-Pierce).
 | [Class 2](Code_102_Reading_Notes/class2.md) | [Class 6](Code_102_Reading_Notes/class6.md) |
 | [Class 3](Code_102_Reading_Notes/class3.md) |	[Class 7](Code_102_Reading_Notes/class7.md) |
 | [Class 4](Code_102_Reading_Notes/class4.md) | [Class 8](Code_102_Reading_Notes/class8.md) |
-
 
 # Code 201 Reading Notes
 
