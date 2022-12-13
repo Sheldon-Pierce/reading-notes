@@ -7,14 +7,27 @@ Hello, I am Sheldon Pierce (He/Him). I currently live in Seattle, Washington. I 
 
 Link to [my github portfolio](https://pages.github/Sheldon-Pierce).
 
-## *What growth mindset means to me*
-Growth mindset means that I **can** acheive anything that I set my mind to. Even if I fail, it is still considered learning and I will keep trying until I understand it. Growth mindset is not giving up when things get hard. It is awarding myself for effort.
+# Code 102 Reading Notes
+| Classes | |
+| ----------- | ----------- |
+| [Class 1]() | [Class 6]() |
+| [Class 2]() | [Class 7]() |
+| [Class 3]() |	[Class 8]() |
+| [Class 4]() | [Class 9]() |
+| [Class 5]() | [Class 10]() |
 
-3 reminders to stay in a growth mindset:
-1. Never give up
-2. Try and try again
-3. Ask for help when needed
+# Code 201 Reading Notes
 
+| Classes | |
+| ----------- | ----------- |
+| [Class 1]() | [Class 9]() |
+| [Class 2]() | [Class 10]() |
+| [Class 3]() |	[Class 11]() |
+| [Class 4]() | [Class 12]() |
+| [Class 5]() | [Class 13]() |
+| [Class 6]() |	[Class 14]() |
+| [Class 7]() | [Class 15]() |
+| [Class 8]() |  |
 
 |Contact Info|  |
 --- | --- |
