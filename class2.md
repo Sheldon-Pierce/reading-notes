@@ -1,5 +1,7 @@
 # Class 02 reading files
 
+Selecting the right editor can be make or break for a developer. You can potentially save hundreds of hours over the couse of your career with ease of life functions from a good editor. Depending on the individual and the preferences, will determine what editor they ultimately pick.
+
 ## Choosing a text editor
 There are plenty of text editors to use. It seems like as long as you find one that is suitable for you and can get the job done, it is perfect. A text editor is one of the most important tools you can use as a web developer. A few important features are:
 - Code completion
