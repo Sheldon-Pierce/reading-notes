@@ -1,5 +1,7 @@
 # Class 1 reading files
 
+[Home](../README.md)
+
 Markdown is essentially HTML without the HTML. Markdown is an easy way to code a simple site with easy to read information. 
 
 # PHILOSOPHY
