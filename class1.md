@@ -1,6 +1,6 @@
 # Class 1 reading files
 
-Markdown is essentilly HTML without the HTML. Markdown is an easy way to code a simple site with easy to read information. 
+Markdown is essentially HTML without the HTML. Markdown is an easy way to code a simple site with easy to read information. 
 
 # PHILOSOPHY
 Markdown is intended to be as easy-to-read and easy-to-write as is feasible.
