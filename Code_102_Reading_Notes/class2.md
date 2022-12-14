@@ -1,4 +1,4 @@
-# Class 02 reading files
+# Class 2 reading files
 
 [Home](../README.md)
 
