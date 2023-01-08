@@ -1,6 +1,6 @@
-# My Reading Journal
+# Reading Notes
 
-This website is a culmination of my notes from Code 102 and Code 201.
+This website is a culmination of my notes from Code 102, 201, 301, and 401.
 
 ## *Get to know me*
 Hello, I am Sheldon Pierce (He/Him). I currently live in Seattle, Washington. I used to be a Hydrogeologist but I am looking for a new career path. I have been teaching myself a few different languages over the past 6/7 months. I looking to build on my previous knowledge and grow as a software developer!
@@ -9,7 +9,7 @@ Hello, I am Sheldon Pierce (He/Him). I currently live in Seattle, Washington. I 
 
 Link to [my github portfolio](https://github.com/Sheldon-Pierce).
 
-# Code 102 Reading Notes
+## Code 102 Reading Notes
 
 | Classes | |
 | ----------- | ----------- |
@@ -18,7 +18,7 @@ Link to [my github portfolio](https://github.com/Sheldon-Pierce).
 | [Class 3](Code_102_Reading_Notes/class3.md) |	[Class 7](Code_102_Reading_Notes/class7.md) |
 | [Class 4](Code_102_Reading_Notes/class4.md) | [Class 8](Code_102_Reading_Notes/class8.md) |
 
-# Code 201 Reading Notes
+## Code 201 Reading Notes
 
 | Classes | |
 | ----------- | ----------- |
@@ -30,6 +30,11 @@ Link to [my github portfolio](https://github.com/Sheldon-Pierce).
 | [Class 6](Code_201_Reading_Notes/class6.md) |	[Class 14](Code_201_Reading_Notes/class14.md) |
 | [Class 7](Code_201_Reading_Notes/class7.md) | [Class 15](Code_201_Reading_Notes/class15.md) |
 | [Class 8](Code_201_Reading_Notes/class8.md) |  |
+
+## Code 301 Reading Notes
+
+## Code 401 Reading Notes
+
 
 |Contact Info|  |
 --- | --- |
