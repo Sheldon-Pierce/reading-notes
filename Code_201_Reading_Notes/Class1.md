@@ -28,7 +28,7 @@ The element is the opening tag, followed by content, followed by the closing tag
 
 head, header, main, footer are typical elements in html
 
-Metadata is data that describes data, and HTML has an "official" way of adding metadata to a document — the <meta> element. Of course, the other stuff we are talking about in this article could also be thought of as metadata too. There are a lot of different types of <meta> elements that can be included in your page's <head>, but we won't try to explain them all at this stage, as it would just get too confusing. Instead, we'll explain a few things that you might commonly see, just to give you an idea.[-1]
+Metadata is data that describes data, and HTML has an "official" way of adding metadata to a document — the \<meta> element. Of course, the other stuff we are talking about in this article could also be thought of as metadata too. There are a lot of different types of \<meta> elements that can be included in your page's \<head>, but we won't try to explain them all at this stage, as it would just get too confusing. Instead, we'll explain a few things that you might commonly see, just to give you an idea.[-1]
 
 ### How to start to design a website
 
