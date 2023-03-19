@@ -44,8 +44,12 @@ Link to [my github portfolio](https://github.com/Sheldon-Pierce).
 | [Class 7](Code_301_Reading_Notes/class7.md) | [Class 15](Code_301_Reading_Notes/class15.md) |
 | [Class 8](Code_301_Reading_Notes/class8.md) |  |
 
-
 ## Code 401 - Advanced Software Development
+
+| Classes | |
+| ----------- | ----------- |
+| [Intro to SQL](Code_401_Reading_Notes/sql.md) | [Class 9](Code_301_Reading_Notes/class9.md) |
+| [Class 2](Code_301_Reading_Notes/class2.md) | [Class 10](Code_301_Reading_Notes/class10.md) |
 
 
 |Contact Info|  |
