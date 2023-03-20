@@ -48,8 +48,8 @@ Link to [my github portfolio](https://github.com/Sheldon-Pierce).
 
 | Classes | |
 | ----------- | ----------- |
-| [Intro to SQL](Code_401_Reading_Notes/sql.md) | [Class 9](Code_301_Reading_Notes/class9.md) |
-| [Class 2](Code_301_Reading_Notes/class2.md) | [Class 10](Code_301_Reading_Notes/class10.md) |
+| [Intro to SQL](Code_401_Reading_Notes/sql.md) | [Command Line](Code_401_Reading_Notes/commandLine.md) |
+| [Class 1](Code_301_Reading_Notes/class2.md) | [Class 2](Code_301_Reading_Notes/class10.md) |
 
 
 |Contact Info|  |
