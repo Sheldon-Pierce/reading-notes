@@ -49,8 +49,11 @@ Link to [my github portfolio](https://github.com/Sheldon-Pierce).
 | Classes | |
 | ----------- | ----------- |
 | [Intro to SQL](Code_401_Reading_Notes/sql.md) | [Command Line](Code_401_Reading_Notes/commandLine.md) |
-| [Class 1](Code_301_Reading_Notes/class2.md) | [Class 2](Code_301_Reading_Notes/class10.md) |
+| [Data Structures & Algorithms](Code_401_Reading_Notes/dsaa.md) | [Class 2](Code_401_Reading_Notes/class2.md) |
+| [Class 1](Code_401_Reading_Notes/class1.md) | [Class 2](Code_401_Reading_Notes/class2.md) |
 
+## Materials Review
+[Materials Image](MaterialsReview.png)
 
 |Contact Info|  |
 --- | --- |
