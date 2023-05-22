@@ -55,6 +55,9 @@ Link to [my github portfolio](https://github.com/Sheldon-Pierce).
 ## Materials Review
 [Materials Image](MaterialsReview.png)
 
+## Ethics Review
+[Ethics Readings](/ethics.md)
+
 |Contact Info|  |
 --- | --- |
 |Pierce55@icloud.com|773-675-0045|
